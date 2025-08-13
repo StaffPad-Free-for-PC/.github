@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt4ANR4036EvN5UNk3HL4OJt6-e7RmAgt_-Q&s" alt="StaffPad – Banner" width="30%" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt4ANR4036EvN5UNk3HL4OJt6-e7RmAgt_-Q&s" alt="StaffPad – Banner" width="20%" />
 </p>
 
 <h1 align="center"><strong>🎵 STAFFPAD – INSTALLATION & USAGE GUIDE</strong></h1>
